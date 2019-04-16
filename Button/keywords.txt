@@ -1,0 +1,4 @@
+Button	KEYWORD1
+
+isPressed	KEYWORD2
+wasPressed	KEYWORD2

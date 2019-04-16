@@ -1,0 +1,5 @@
+Melodies	KEYWORD1
+
+playMario	KEYWORD2
+playPirates	KEYWORD2
+playBeep	KEYWORD2

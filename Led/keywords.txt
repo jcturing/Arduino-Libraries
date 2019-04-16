@@ -1,0 +1,8 @@
+Led	KEYWORD1
+
+turnOn			KEYWORD2
+turnOff			KEYWORD2
+switchState		KEYWORD2
+isOn			KEYWORD2
+isOff			KEYWORD2
+getState		KEYWORD2
