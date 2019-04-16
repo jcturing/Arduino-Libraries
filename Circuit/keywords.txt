@@ -1,0 +1,9 @@
+Circuit			KEYWORD1
+
+getTam			KEYWORD2
+getDifference	KEYWORD2
+getSum			KEYWORD2
+getCurvature	KEYWORD2
+getSpeed		KEYWORD2
+add				KEYWORD2
+print			KEYWORD2
